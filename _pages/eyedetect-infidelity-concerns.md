@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-26 19:55:20
 ---
-Concerned about your partners fidelity?
+Concerned about your partner's faithfulness?
 
 We offer a more time and cost effective alternative to formal polygraph testing.
 
