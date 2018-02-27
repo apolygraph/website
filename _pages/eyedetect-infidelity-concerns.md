@@ -1,6 +1,6 @@
 ---
 ID: 205
-post_title: EyeDetect for infidelity concerns
+post_title: EyeDetect for Sexual Infidelity Concerns
 author: scottpageusmc
 post_excerpt: ""
 layout: page
